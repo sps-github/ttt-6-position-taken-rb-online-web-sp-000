@@ -12,6 +12,8 @@ def input_to_index(user_input)
   return new_user_input
 end
 
+input_to_index = index
+
 def position_taken?(board, index)
 end
 
